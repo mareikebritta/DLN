@@ -1,37 +1,11 @@
 # Digital Lab Notebook
 
-## Tables
+# Links and Images
 
-You can make simple tables by using pipe symbol and minus signs:
+You can link stuff to your document like this: [etherpad](https://pad.carpentries.org/2018-11-13-otago-dc)
 
-| column 1 | column 2 | Column 3|
-|---------:|:----------:|---------:|
-| item 1 | item 2 | item 3|
-|**bold** | *italics* | `code` |
-| HUUUUUUUUUGE ITEM | item 2 | item 3|
-| item 1 | item 2 | item 3|
-| item 1 | item 2 | item 3|
+To put an image, use an exclamation mark before link:
 
-## Item lists
+![rabbit](https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5MC8xMzQvb3JpZ2luYWwvcmFiYml0LmpwZw==)
 
-### Ordered lists
 
-1. This is the second item
-    1. sub item?
-1. This is the first item
-1. This is the third item
-
-## Unordered lists
-
-Use either asterisk or minus sign:
-
-* item 1
-    * item 2
-
-- item 3
-
-## Check list
-
-- [ ] checked list 1
-- [X] checked list 1
-- [ ] checked list 1
