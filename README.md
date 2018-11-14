@@ -1,26 +1,13 @@
 # Digital Lab Notebook
 
-# Quotes and Code Blocks
+## Tables
 
-## Quotes
+You can make simple tables by using pipe symbol and minus signs:
 
-To add quotes, use a greater than sign:
-
-> This is a quote
-
-This is a multi-line quotes:
-
-> Here is some multiline quotes.
-> Another line
-> Quotes get put on the same line, if space allows
-
-## Code Blocks
-
-To make a code block in your text, use three backticks:
-
-```
-install.packages("tidyverse")
-library(tidyverse)
-```
-
-You can also have codes within your text like this: `echo hello world!`
+| column 1 | column 2 | Column 3|
+|---------:|:----------:|---------:|
+| item 1 | item 2 | item 3|
+|**bold** | *italics* | `code` |
+| HUUUUUUUUUGE ITEM | item 2 | item 3|
+| item 1 | item 2 | item 3|
+| item 1 | item 2 | item 3|
