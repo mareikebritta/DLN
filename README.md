@@ -1,11 +1,9 @@
 # Digital Lab Notebook
 
-# Links and Images
+This repository contains some methods and results for my experiments.
 
-You can link stuff to your document like this: [etherpad](https://pad.carpentries.org/2018-11-13-otago-dc)
+Please look at [Results](/Results/) for up-to-date results.
 
-To put an image, use an exclamation mark before link:
+Please look at [Methods](/Methods/) for up-to-date methods.
 
-![rabbit](https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5MC8xMzQvb3JpZ2luYWwvcmFiYml0LmpwZw==)
-
-
+If you want to see my lab log, take a look at [General Notes](General_notes/)
